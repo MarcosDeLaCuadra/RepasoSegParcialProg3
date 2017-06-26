@@ -1,0 +1,5 @@
+1) composer: https://getcomposer.org/download/
+
+2)slim framework: composer require slim/slim "^3.0"
+
+3)firebase: composer require firebase/php-jwt
